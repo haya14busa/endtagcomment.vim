@@ -1,6 +1,8 @@
 endtagcomment.vim
 =================
 
+Forked from @hokaccha's https://gist.github.com/hokaccha/411828
+
 Introduction
 ------------
 
