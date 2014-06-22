@@ -31,7 +31,7 @@ NeoBundle 'haya14busa/endtagcomment.vim'
 ```
 
 ```vim
-NeoBundleLazy 'haya14busa/endtagcomment.vim',
+NeoBundleLazy 'haya14busa/endtagcomment.vim', {
 \   'autoload' : {
 \     'mappings' : ['<Plug>(endtagcomment'],
 \   }
